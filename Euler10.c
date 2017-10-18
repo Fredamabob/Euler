@@ -13,7 +13,7 @@ int main(){
 	}
 	printf("%lu\n", sum);
 
-	return 0;
+	return;
 }
 
 int checkPrime(long int num){
