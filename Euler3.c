@@ -1,3 +1,5 @@
+// Euler3.c
+
 #include <stdio.h>
 #include <math.h>
 
